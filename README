@@ -1,0 +1,22 @@
+Welcome
+-------
+
+Although ZeroMQ has a simple API, the internals are quite complex. This project
+aims to demystify the internal structure of ZeroMQ. It should be very helpful
+for anyone who wants to start contributing to ZeroMQ.
+
+
+Resources
+---------
+
+ZeroMQ Website: http://www.zeromq.org/
+Git repository: http://github.com/zeromq/zeromq2
+
+DIA UML editor website: http://live.gnome.org/Dia
+
+
+Copying
+-------
+
+Free use of this software is granted under the terms of the GNU Lesser General
+Public License (LGPL). 
